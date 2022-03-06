@@ -124,23 +124,23 @@ Video File after Decompression. The file has been recovered successfully.
 
 
 
-![App Screenshot](screenshots/txt/txt%20input%20file.JPG)
+![App Screenshot](screenshots/text/txt%20input%20file.JPG)
 
-Txt File Path
-
-
-![App Screenshot](screenshots/txt/txt%20file%20before%20compression.JPG)
-
-Txt File before Compression
+Text File Path
 
 
+![App Screenshot](screenshots/text/txt%20file%20before%20compression.JPG)
 
-![App Screenshot](screenshots/txt/txt%20file%20after%20compression.JPG)
-
-Txt File after Compression. The size has been reduced for the compressed file.
+Text File before Compression
 
 
-![App Screenshot](screenshots/txt/txt%20file%20after%20decompression.JPG)
 
-Txt File after Decompression. The file has been recovered successfully.
+![App Screenshot](screenshots/text/txt%20file%20after%20compression.JPG)
+
+Text File after Compression. The size has been reduced for the compressed file.
+
+
+![App Screenshot](screenshots/text/txt%20file%20after%20decompression.JPG)
+
+Text File after Decompression. The file has been recovered successfully.
 
