@@ -35,6 +35,8 @@ In essence, we will be saving some space.
 
 # Huffman Coding diagram
 
+![App Screenshot](screenshots/Huffman-encoding-procedure.png?raw=true)
+
 
 credits: Research Gate
 
