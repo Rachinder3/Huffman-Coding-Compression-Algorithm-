@@ -100,23 +100,24 @@ If this is not the case, we pad the sequence. Also we store the number of bits p
 
 
 ![App Screenshot](screenshots/video/video%20input%20file.JPG)
+
 Video File Path
 
 
-&nbsp;
-
 ![App Screenshot](screenshots/video/video%20file%20before%20compression.JPG)
+
 Video File before Compression
 
-&nbsp;
+
 
 ![App Screenshot](screenshots/video/video%20file%20after%20compression.JPG)
+
 Video File after Compression. The size has been reduced for the compressed file.
-&nbsp;
+
 
 ![App Screenshot](screenshots/video/video%20file%20after%20decompression.JPG)
+
 Video File after Decompression. The file has been recovered successfully.
 
 
-&nbsp;
 
