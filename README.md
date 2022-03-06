@@ -120,4 +120,27 @@ Video File after Compression. The size has been reduced for the compressed file.
 Video File after Decompression. The file has been recovered successfully.
 
 
+#### Txt File Compression Demo:
+
+
+
+![App Screenshot](screenshots/txt/txt%20input%20file.JPG)
+
+Txt File Path
+
+
+![App Screenshot](screenshots/txt/txt%20file%20before%20compression.JPG)
+
+Txt File before Compression
+
+
+
+![App Screenshot](screenshots/txt/txt%20file%20after%20compression.JPG)
+
+Txt File after Compression. The size has been reduced for the compressed file.
+
+
+![App Screenshot](screenshots/txt/txt%20file%20after%20decompression.JPG)
+
+Txt File after Decompression. The file has been recovered successfully.
 
