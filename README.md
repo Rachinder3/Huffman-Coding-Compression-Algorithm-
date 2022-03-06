@@ -144,3 +144,27 @@ Text File after Compression. The size has been reduced for the compressed file.
 
 Text File after Decompression. The file has been recovered successfully.
 
+#### Jpg File Compression Demo:
+
+
+
+![App Screenshot](screenshots/jpg/jpg%20input%20file.JPG)
+
+Jpg File Path
+
+
+![App Screenshot](screenshots/jpg/jpg%20file%20before%20compression.JPG)
+
+Jpg File before Compression
+
+
+
+![App Screenshot](screenshots/jpg/jpg%20file%20after%20compression.JPG)
+
+Jpg File after Compression. The size has been reduced for the compressed file.
+
+
+![App Screenshot](screenshots/jpg/jpg%20file%20after%20decompression.JPG)
+
+Jpg File after Decompression. The file has been recovered successfully.
+
