@@ -96,5 +96,21 @@ If this is not the case, we pad the sequence. Also we store the number of bits p
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+#### Mp4/ Video File Compression Demo:
+
+
+![App Screenshot](screenshots/video/video%20input%20file.JPG)
+Video File Path
+
+![App Screenshot](screenshots/video/video%20file%20before%20compression.JPG)
+Video File before Compression
+
+![App Screenshot](screenshots/video/video%20file%20after%20compression.JPG)
+Video File after Compression. The size has been reduced for the compressed file.
+
+![App Screenshot](screenshots/video/video%20file%20after%20decompression.JPG)
+Video File after Decompression. The file has been recovered successfully.
+
+
+
 
